@@ -1,0 +1,27 @@
+{
+  "name": "@mfjs/compiler",
+  "version": "2.0.0",
+  "description": "DEPRECATED: Embedding effects in JavaScript using Monads",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js",
+    "install": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awto/mfjs-compiler.git"
+  },
+  "keywords": [
+    "promise",
+    "async",
+    "monad",
+    "linq",
+    "effectfuljs"
+  ],
+  "author": "Vitaliy Akimov <vitaliy.akimov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awto/mfjs-compiler/issues"
+  },
+  "homepage": "https://github.com/awto/mfjs-compiler#readme"
+}
